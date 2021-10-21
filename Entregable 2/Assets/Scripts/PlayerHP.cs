@@ -12,9 +12,8 @@ public class PlayerHP : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log($"{playerHP} - {damage} = {playerHP - damage}");
+        playerHP = playerHP - damage;
     }
-
     // Update is called once per frame
     void Update()
     {
