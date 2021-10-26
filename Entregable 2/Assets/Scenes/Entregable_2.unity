@@ -506,7 +506,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isGameOver: 0
-  damage: 90
+  damage: 60
 --- !u!1 &1949298329
 GameObject:
   m_ObjectHideFlags: 0
